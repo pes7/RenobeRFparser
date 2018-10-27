@@ -3,3 +3,4 @@
 .vs/RenobeRFparser/v15/Server/sqlite3/storage.ide
 .vs/RenobeRFparser/v15/Server/sqlite3/storage.ide-shm
 .vs/RenobeRFparser/v15/Server/sqlite3/storage.ide-wal
+*.pdf

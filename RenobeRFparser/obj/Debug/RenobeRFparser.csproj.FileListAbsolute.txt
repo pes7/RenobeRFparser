@@ -12,3 +12,8 @@ C:\Users\user\Documents\Visual Studio 2017\Projects\RenobeRFparser\RenobeRFparse
 C:\Users\user\Documents\Visual Studio 2017\Projects\RenobeRFparser\RenobeRFparser\obj\Debug\RenobeRFparser.csproj.CopyComplete
 C:\Users\user\Documents\Visual Studio 2017\Projects\RenobeRFparser\RenobeRFparser\obj\Debug\RenobeRFparser.exe
 C:\Users\user\Documents\Visual Studio 2017\Projects\RenobeRFparser\RenobeRFparser\obj\Debug\RenobeRFparser.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\RenobeRFparser\RenobeRFparser\bin\Debug\Ionic.Zip.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\RenobeRFparser\RenobeRFparser\bin\Debug\IronPdf.dll
+C:\Users\user\Documents\Visual Studio 2017\Projects\RenobeRFparser\RenobeRFparser\bin\Debug\IronPdf.xml
+C:\Users\user\Documents\Visual Studio 2017\Projects\RenobeRFparser\RenobeRFparser\obj\Debug\RenobeRFparser.Main.resources
+C:\Users\user\Documents\Visual Studio 2017\Projects\RenobeRFparser\RenobeRFparser\obj\Debug\RenobeRFparser.csproj.GenerateResource.cache
